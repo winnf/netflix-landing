@@ -1,1 +1,1 @@
-# netflix-landing
+# netflix-main
